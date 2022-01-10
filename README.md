@@ -4,15 +4,17 @@
 <h3><b>• What is the "RoyalFamilyNFT"?</b></h3>
 
 1. The NFTs of the royal family consist of 10 rooms
-2. Each room has 10 independent characters
+2. Each room has 10 independent characters + GOD
 3. All 10 characters own a room, the room does not belong to one person
 4. Characters can not change their room (Because every room is valued, each room has its own value)
 5. The value of each room is recognizable by the "name" - "number" - "characters" of that room
-
+  - The most valuable room is number 1, Diamond room with the presence of 10 kings or queens.
+ 
 <h3><b>• What happens in the rooms?</b></h3>
 
 1. Private meetings are held between 10 characters in the room
-2. All 10 characters can:
+2. The character of GOD is present in all meetings
+3. All 10 characters can:
   - Talk to each other
   - Make decisions
   - Consult together
@@ -25,6 +27,7 @@
 3. Improvement: Your information will improve with each session<br>
 4. Awareness: Aware of Up-to-date events in the world of Metaverse and crypto currency<br>
 5. Knowledge: Your meetings are held at the highest level of knowledge. You publish experiences and gain experiences from your roommates<br>
+6. GOD: God is a guide in all meetings and may have ideas
 
 <h3><b>• When do rooms become active?</b></h3>
 
@@ -36,7 +39,10 @@
  - After selling the first character in each room,
    the operator is responsible for bringing the room to the quorum and selling the characters without offering a discount on the price
    (This process may take up to one year)
- 
+4. The number of formal meetings with the presence of GOD is at least once a month
+  - These meetings can be extended at the request of members
+
+
  <h3><b>• Where are the rooms?</b></h3>
  
  1. Rooms are activated on one of the valid platforms of Metaverse lands</br>
