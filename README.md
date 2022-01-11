@@ -39,7 +39,7 @@
  - After selling the first character in each room,
    the operator is responsible for bringing the room to the quorum and selling the characters without offering a discount on the price
    (This process may take up to one year)
-4. The number of formal meetings with the presence of GOD is at least once a month
+4. The number of official meetings with the presence of GOD is at least once a month
   - These meetings can be extended at the request of members
 
 
