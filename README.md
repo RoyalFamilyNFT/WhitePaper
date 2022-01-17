@@ -46,6 +46,14 @@
  <h3><b>• Where are the rooms?</b></h3>
  
  1. Rooms are activated on one of the valid platforms of Metaverse lands</br>
- 2. Meetings are private and no one outside the characters of the rooms can be present in the room
+ 2. Meetings are private and no one outside the characters of the rooms can be present in the room</br>
+
+<h3>Only 2 rooms are created in 1 year</h3>
+- 2022  ⟶ Rooms No.01 and No.10 - Done </br>
+- 2023  ⟶ Rooms No.02 and No.09 - Waiting</br>
+- 2024  ⟶ Rooms No.03 and No.08 - Waiting</br>
+- 2025  ⟶ Rooms No.04 and No.07 - Waiting</br>
+- 2026  ⟶ Rooms No.05 and No.06 - Waiting</br>
+- Maybe removed some waiting rooms (This decision makes other rooms more valuable)
 
 
