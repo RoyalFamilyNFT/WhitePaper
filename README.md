@@ -5,15 +5,16 @@
 
 1. The NFTs of the royal family consist of 10 rooms
 2. Each room has 10 independent characters + GOD
-3. All 10 characters own a room, the room does not belong to one person
-4. Characters can not change their room (Because every room is valued, each room has its own value)
-5. The value of each room is recognizable by the "name" - "number" - "characters" of that room
+3. GOD's character is like a coach
+4. All 10 characters own a room, the room does not belong to one person
+5. Characters can not change their room (Because every room is valued, each room has its own value)
+6. The value of each room is recognizable by the "name" - "number" - "characters" of that room
   - The most valuable room is number 1, Diamond room with the presence of 10 kings or queens.
  
 <h3><b>• What happens in the rooms?</b></h3>
 
 1. Private meetings are held between 10 characters in the room
-2. The character of GOD is present in all meetings
+2. The character of GOD is present in all meetings 
 3. All 10 characters can:
   - Talk to each other
   - Make decisions
